@@ -19,12 +19,12 @@
 
 ***Результат:***
 
-
+![](https://github.com/Articso/martynets_artem/blob/master/Task02/image/screen1.png)
 
 ***Тестування:***
 
-
+![](https://github.com/Articso/martynets_artem/blob/master/Task02/image/screen2.png)
 
 ***Документація:***
 
-
+![](https://github.com/Articso/martynets_artem/blob/master/Task02/image/screen3.png)

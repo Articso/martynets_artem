@@ -46,3 +46,15 @@
 ***Документація:***
 
 ![](https://github.com/Articso/martynets_artem/blob/master/Task03/image/screen3.png)
+
+
+## Завдання04:  
+За основу використовувати вихідний текст проекту попередньої лабораторної роботи Використовуючи шаблон проектування Factory Method (Virtual Constructor), розширити ієрархію похідними класами, реалізують методи для подання результатів у вигляді текстової таблиці. Продемонструвати заміщення (перевизначення, overriding), поєднання (перевантаження, overloading), динамічне призначення методів (Пізнє зв'язування, поліморфізм, dynamic method dispatch).
+
+***Результат:***
+
+![](https://github.com/Articso/martynets_artem/blob/master/Task04/image/screen1.png)
+
+***Тестування:***
+
+![](https://github.com/Articso/martynets_artem/blob/master/Task04/image/screen2.png)

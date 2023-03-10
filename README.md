@@ -59,3 +59,15 @@
 ***Тестування:***
 
 ![](https://github.com/Articso/martynets_artem/blob/master/Task04/image/screen2.png)
+
+
+## Завдання05:  
+5️⃣Реалізувати можливість скасування (undo) операцій (команд). Продемонструвати поняття "макрокоманда". При розробці програми використовувати шаблон Singletone.
+
+***Результат:***
+
+![](https://github.com/Articso/martynets_artem/blob/master/Task05/image/screen1.png)
+
+***Тестування:***
+
+![](https://github.com/Articso/martynets_artem/blob/master/Task05/image/screen2.png)
